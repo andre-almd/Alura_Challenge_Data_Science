@@ -5,7 +5,7 @@ A Alura Voz é uma empresa de telecomunicação que nos contratou para atuar com
 
 O trabalho será divido em 4 semanas:
 - **Semana 1:** Entendimento dos dados
-- **Semana 2:** xxxx
+- **Semana 2:** Visualização dos dados
 - **Semana 3:** xxxx
 - **Semana 4:** xxxx
 
